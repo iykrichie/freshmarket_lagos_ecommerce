@@ -1,0 +1,8 @@
+{
+  "name": "FreshMarket Lagos",
+  "description": "Lagos African & Tropical Foodstuff eCommerce store with admin dashboard, order tracking, Lagos delivery zones, and Nigerian payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
